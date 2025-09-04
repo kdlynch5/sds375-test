@@ -1,0 +1,24 @@
+---
+title: "My Website"
+author: "Kevin Lynch"
+date: "2025-09-02"
+output: html_document
+---
+
+My name is Kevin Lynch. I am a Senior from Long Island, NY. I enjoy playing sports and hanging out with my friends! I am a statistics and data science major with a minor in CS and Economics. I am in a handful of clubs across campus!
+
+## Here is a list of the clubs I am involved with
+- Texas Wranglers
+- Texas Cowboys
+- UT ASA
+
+## Here is a link to my github account!
+[Visit my GitHub profile](https://github.com/kdlynch5)
+
+
+## Here is a photo of my friend and I on the football field before the game!
+![](IMG_0551.JPG)
+
+---
+Built at:  
+`r Sys.time()`
